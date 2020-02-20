@@ -28,7 +28,7 @@ A VueJs single page application (SPA) being used to host the user interface. To 
 ### Requirements
 #### Background
 StaffCircle deals with customers who have their employee data stored on our platform.
-HR Managers (and their team) need to be able to find employees by their manager, as well as view useful summarised data of their employees demographics.
+HR Managers (and their teams) need to be able to find employees by their manager, as well as view useful summarised data of their employee demographics.
 
 #### Stories
 1. As a user I must be view a list of employees.
