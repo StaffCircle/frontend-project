@@ -33,13 +33,14 @@ HR Managers (and their team) need to be able to find employees by their manager,
 #### Stories
 1. As a user I must be view a list of employees.
 2. As a user I must be able to filter the list of employees by manager and/or site (office/location).
-3. As a user I must be able to sort the data by Full Name, start date, manager and site (office/location).
+3. As a user I must be able to sort the data by Full Name, date of birth, start date, manager and site (office/location).
 4. As a user I must be able to easily view a break-down of the employees demographics by length of service in blocks of years (less than a year, 1 to 2 years, 2 to 5 years, more than 5 years).
 
 #### Resources
 We know there may be a few new bits of tech in here so here are a set of resources that should help you fulfill the users requirements.
 1. [VueJs](https://vuejs.org/)
 2. [Vuetify](https://vuetifyjs.com/)
+3. [Employee data](https://api.myjson.com/bins/t3gro)
 
 ### Complete
 When you've completed your code, bundle up your project and send it to our team.
