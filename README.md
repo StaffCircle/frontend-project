@@ -12,7 +12,7 @@ Rather than prescribe a list of tasks, we are keen to see how you approach a rea
 Complete as many of the requirements as you can, and then we will review the code, giving you the opportunity to share your reasoning behind your implementation and for our team to share any feedback they have.
 
 ### Setup
-1. [Visual Code](https://code.visualstudio.com/)
+1. [Visual Studio Code](https://code.visualstudio.com/)
 2. [NodeJs](https://nodejs.org/)
 
 All resources required are available for free.
