@@ -40,7 +40,7 @@ HR Managers (and their teams) need to be able to find employees by their manager
 We know there may be a few new bits of tech in here so here are a set of resources that should help you fulfill the users requirements.
 1. [VueJs](https://vuejs.org/)
 2. [Vuetify](https://vuetifyjs.com/)
-3. [Employee data](https://api.myjson.com/bins/pnd6c) - this is the end-point to use
+3. [Employee data]('https://api.jsonbin.io/b/5e8f3cde8e85c84370132fbd/4') - this is the end-point to use (along with the API key)
 
 ### Complete
 When you've completed your code, bundle up your project and send it to our team.
